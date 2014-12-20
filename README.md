@@ -4,7 +4,7 @@ A port, with some minor modifications, of Google's UA parser.
 
 ## Usage
     var useragent_parser = require('./useragent_parser')
-    // or <script src="useragent_parser_browser.js"></script>
+    // or <script src="useragent_parser.js"></script>
 
     var useragent = 'Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en-GB) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.141 Mobile Safari/534.1+,gzip(gfe),gzip(gfe)'
 
