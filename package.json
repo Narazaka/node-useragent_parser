@@ -1,16 +1,17 @@
 {
-  "name" : "useragent_parser",
+  "name" : "useragent_parser_browser",
   "description" : "Browser useragent parser.",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "keywords" : [ "node", "useragent", "browser", "parser"],
-  "homepage" : "http://github.com/koudelka/node-useragent_parser",
-  "author" : "Michael Shapiro <koudelka@ryoukai.org>",
-  "contributors" : [],
-  "bugs" : {
-    "mail" : "koudelka@ryoukai.org",
-    "web"  : "http://github.com/koudelka/node-useragent_parser/issues"
+  "homepage" : "https://github.com/Narazaka/node-useragent_parser",
+  "author": {
+    "name": "narazaka",
+    "url": "http://narazaka.net/"
   },
-  "repository" : "git://github.com/koudelka/node-useragent_parser.git",
+  "devDependencies": {
+    "ya-csv": "^ 0.9.4"
+  },
+  "repository" : "git://github.com/Narazaka/node-useragent_parser.git",
   "engines" : { "node" : ">=0.2.3" },
   "dependencies" : {},
   "directories" : { "lib" : "./lib", "test" : "./test"}

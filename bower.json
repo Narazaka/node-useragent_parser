@@ -1,0 +1,14 @@
+{
+  "name": "useragent_parser_browser",
+  "description": "Browser useragent parser.",
+  "keywords" : [ "node", "useragent", "browser", "parser"],
+  "main": "lib/useragent_parser.js",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "npm-debug.log",
+    "coverage",
+    "index.js"
+  ]
+}
